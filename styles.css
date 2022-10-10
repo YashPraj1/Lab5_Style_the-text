@@ -1,0 +1,43 @@
+h1{
+    font-family: 'Merriweather', serif;
+    color: darkblue;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2rem;
+    background-color: lightblue;
+}
+
+.yp1{
+    width: 300px;
+    float: left;
+    margin-right: 30px;
+    border: 1px solid;
+    margin-bottom: 10px;
+
+}
+#div1{
+    border: 1px solid black;
+        border-radius: 55px;
+        width: 80%;
+        margin: 0 auto;
+        padding: 10rem;
+       
+}
+
+p:nth-child(odd){
+    background-color: aqua;
+}
+p:nth-child(even){
+    background-color: cornflowerblue;
+}
+
+p{
+    display: inline-block ;
+}
